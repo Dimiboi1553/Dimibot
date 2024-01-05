@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Dimibot/cmake-build-debug/CMakeFiles/Dimibot.dir
+C:/Users/User/CLionProjects/Dimibot/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Dimibot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
